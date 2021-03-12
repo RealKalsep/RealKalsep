@@ -7,4 +7,4 @@ So what do I do here?
 - 😁 Friends: zyapguy, Klaykap and probably more.
 #### (these are the friends that use github only)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RealKalsep&hide=contribs,prs)
+![Stats](https://github-readme-stats.vercel.app/api?username=RealKalsep&show_icons=true)
