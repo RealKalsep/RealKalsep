@@ -1,4 +1,4 @@
-![Banner](https://github.com/RealKalsep/RealKalsep/blob/main/gitbanner.png?raw=true)
+[![Banner](https://github.com/RealKalsep/RealKalsep/blob/main/gitbanner.png?raw=true)](https://github.com/RealKalsep/RealKalsep)
 
 ### You found me, what a surprise 👍
 So what do I do here?
