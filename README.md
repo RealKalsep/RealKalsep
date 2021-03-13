@@ -7,5 +7,5 @@ So what do I do here?
 - 😁 Friends: zyapguy, Klaykap and probably more.
 
 #### My stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=RealKalsep&show_icons=true&theme=highcontrast)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealKalsep&theme=highcontrast)
+![Stats](https://github-readme-stats.vercel.app/api?username=RealKalsep&show_icons=true&theme=gotham)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealKalsep&layout=compact&theme=gotham)
