@@ -6,5 +6,5 @@ So what do I do here?
 - ⚡ Fun fact: Put the same amount of water on water, you will have a double of water.
 - 😁 Friends: zyapguy, Klaykap and probably more.
 
-#### (My stats:)
+#### My stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=RealKalsep&show_icons=true)
