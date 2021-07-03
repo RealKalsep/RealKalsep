@@ -3,7 +3,7 @@
 ### You found me, what a surprise 👍
 So what do I do here?
 
-- 🔭 Working on: [PHP-Chat](https://github.com/RealKalsep/php-chat-repo)
+- 🔭 Working on: Nothing
 - 📫 How to reach me: Here.
 - ⚡ Fun fact: When you type something on your keyboard, your bones will get tired.
 - 😁 Friends: [zyapguy](https://github.com/zyapguy), [Klaykap](https://github.com/Klaykap) and probably more.
